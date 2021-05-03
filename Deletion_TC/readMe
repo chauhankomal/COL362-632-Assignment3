@@ -37,12 +37,12 @@ some marks deducted if read/write count is too high compare to others or if code
 
 
 
-To run, move all files including Deletion_TC folder into you folder and run
+To run, move all files including Deletion folder into you folder and run
 ./checker.sh
 
 
 convert - It converts binary file into txt file
-Code changes input file itslf so each time you run your code you have to copy this Deletion_TC folder again.
+Code changes input file itslf so each time you run your code you have to copy this Deletion folder again.
 
 
 
