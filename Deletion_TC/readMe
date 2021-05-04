@@ -1,6 +1,8 @@
 PAGE_CONTENT_SIZE = 512
 PAGE_SIZE=516
+BUFFER_SIZE =2
 integers/page = 128
+
 
 Total 25 marks 
 
